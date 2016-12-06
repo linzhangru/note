@@ -11,10 +11,12 @@ xmake image-stripped
 
 so there are 2 main points about build:
    1. ctnr_image_reuse.sh
-   2. xmake
-
+   2. xdirs
+   3. xmake
+   
 ###1. ctnr_image_reuse.sh
 ###2. xmake
+---------------------------
 
 
 
@@ -26,4 +28,8 @@ so there are 2 main points about build:
 ##3. dbus mechanism
 ##4. mount bind/chroot/rootfs
 ##5. libhybris/function mapping
-##6. 
+##6. init : how "on xxx" implemented 
+##7. cgroup
+##8. repo&git
+##9. gerrit
+
